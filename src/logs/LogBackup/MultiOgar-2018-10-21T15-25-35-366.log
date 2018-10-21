@@ -1,0 +1,39 @@
+=== Started 2018-10-21T09-42-14-440 ===
+[INFO ][09:42:14] [1m[32mMultiOgar 1.2.69[37m - An open source multi-protocol ogar server[0m
+[INFO ][09:42:14] 0 IP ban records loaded.
+[WARN ][09:42:14] User account "Local Administrator" disabled
+[WARN ][09:42:14] User account "Local Moderator" disabled
+[WARN ][09:42:14] User account "Local User" disabled
+[INFO ][09:42:14] 0 user records loaded.
+[INFO ][09:42:14] 25 bad words loaded
+[WARN ][09:42:14] TLS: not supported (SSL certificate not found!)
+[INFO ][09:42:14] WebSocket: ws
+[INFO ][09:42:14] Started stats server on port 1110
+[INFO ][09:42:14] Listening on port 1111
+[INFO ][09:42:14] Current game mode is Free For All
+[NONE ][11:25:10] >playerlist
+[NONE ][11:25:10] Showing 0 players: 
+[NONE ][11:25:10]  ID     | IP              | P | NICK            | CELLS | SCORE  | POSITION    
+[NONE ][11:25:10] -------------------------------------------------------------------------------
+[NONE ][11:25:19] >login
+[WARN ][11:25:19] Invalid Command!
+[NONE ][11:25:22] >login luben
+[WARN ][11:25:22] Invalid Command!
+[NONE ][11:25:25] >user
+[WARN ][11:25:25] Invalid Command!
+[NONE ][11:25:26] >users
+[WARN ][11:25:26] Invalid Command!
+[NONE ][11:25:28] >namne
+[WARN ][11:25:28] Invalid Command!
+[NONE ][11:25:29] >mass
+[WARN ][11:25:29] Please specify a valid player ID!
+[NONE ][11:25:37] >shutdown
+[WARN ][11:25:37] Invalid Command!
+[NONE ][11:25:41] >off
+[WARN ][11:25:41] Invalid Command!
+[NONE ][11:25:43] >reset
+[WARN ][11:25:43] Invalid Command!
+[NONE ][11:25:46] >restart
+[WARN ][11:25:46] Invalid Command!
+[NONE ][11:25:52] >npm install
+[WARN ][11:25:52] Invalid Command!
